@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "A24",
+  "base_artist": "BANNY BUGS",
+  "createdAt": "2026-01-06T02:54:08.533809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A24",
+      "artist": "GOON DES GARCONS* feat. Cuco",
+      "has_synced": true,
+      "path": "select/01_A24_GOON_DES_GARCONS__feat._Cuco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A24",
+      "artist": "GOON DES GARCONS*/Cuco",
+      "has_synced": true,
+      "path": "select/02_A24_GOON_DES_GARCONS_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A24",
+      "artist": "GOON DES GARCONS*",
+      "has_synced": false,
+      "path": "select/03_A24_GOON_DES_GARCONS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A24",
+      "artist": "HAON",
+      "has_synced": true,
+      "path": "select/04_A24_HAON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A24",
+      "artist": "BANNY BUGS, 3House",
+      "has_synced": false,
+      "path": "select/pl_01_A24_BANNY_BUGS,_3House.txt"
+    }
+  ]
+}
